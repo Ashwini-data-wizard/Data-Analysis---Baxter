@@ -36,3 +36,39 @@ Peak in January: The significant peak in January may indicate a need to investig
 Improvement in June: The drop to 151 in June suggests effective corrective actions or seasonal improvements in quality.
 Stable Months: Months like February, April, and March show relatively stable defect counts, suggesting consistent quality issues that may require targeted improvements.
 Overall, this data indicates both a seasonal trend and potential success in recent quality interventions.
+
+### Product based analysis
+
+### 1. Top 10 Products with Most Defects
+The first graph identifies Product IDs with the highest defect counts, with Product 63 having the most. Products 81 and 97 also show high defect counts, indicating that certain products consistently encounter quality issues.
+
+#### Recommendations:
+
+- Focused Quality Control: Increase inspection frequency and quality control measures for high-defect products, particularly Products 63, 81, and 97.
+- Root Cause Analysis: Conduct a root cause analysis on these specific products to determine why they are prone to defects. Consider factors like raw materials, manufacturing processes, or design flaws.
+- Supplier Evaluation: If these products have components sourced from specific suppliers, review supplier quality performance and implement corrective actions as needed.
+
+### 2. Number of Defect Types
+Structural, Functional, and Cosmetic defects are prevalent, with Structural defects slightly leading.
+
+#### Recommendations:
+
+- Prioritize Structural Issue Resolution: Since structural defects are the most common, focus on enhancing the materials and design standards to minimize such issues.
+- Segmented Quality Improvements: For functional and cosmetic defects, create separate improvement plans. For instance, functional issues might need design alterations, while cosmetic issues may require a review of the finishing processes.
+
+### 3. Number of Defect Locations
+Defects occur most frequently on the Surface, followed by Component and Internal locations.
+
+#### Recommendations:
+
+Enhanced Surface Inspection: Since surface defects are the most common, invest in automated visual inspection technologies to catch these early in the production process.
+Internal Component Checks: For component and internal issues, consider using more advanced scanning or testing methods to detect defects that are harder to spot visually.
+
+### 4. Defect Severity
+The majority of defects are Minor, followed by Critical and Moderate levels.
+
+#### Recommendations:
+
+- Focus on Critical Defects: While minor defects are more frequent, critical defects can have a significant impact on product performance and customer satisfaction. Allocate resources to minimize critical issues as a priority.
+- Quality Standards for Minor Defects: Set thresholds for acceptable minor defects, focusing on cosmetic issues that do not affect functionality. This approach can improve inspection efficiency by allowing inspectors to focus on more serious issues.
+
